@@ -9,3 +9,11 @@ Em todo o país, eventos de lazer, cultura e afins são sempre uma questão muit
 ## Qual a solução que a aplicação traz ?
 
 A aplicação em questão tem como intuito permitir que usuários e donos de estabelecimentos consigam, tanto visualizar eventos, como divulgar os mesmos, promovendo-os de maneira prática e fácil,além disso, conseguirão realizar filtros nas buscas. As postagens com relação aos eventos estarão explicitamente datadas e explicadas sobre como e onde irão ocorrer e quais são os tipos de atrações. Centralizando as informações e promovendo um contato mais fácil, tanto entre o usuário, quanto pelo divulgador do acontecimento, seja ele cultural, social ou artístico.
+
+## Tecnologias
+
+HTML5, CSS3 e React.JS.
+
+## Bibliotecas
+
+Axios, StyledComponents, React Router Dom, Yup, Hook Form, Toastify, react-icons
